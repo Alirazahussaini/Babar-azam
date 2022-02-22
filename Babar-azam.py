@@ -1002,8 +1002,8 @@ def ran():
 	print("   \x1b[1;92m Total Ok/Cp: "+str(len(oks))+"/"+str(len(cps)))
 	os.system('echo -e "★━━━━━━━━━━━━━━━━━━━━★"| lolcat')
 	print("")
-	print(" Restart Termux After Every Cloning ")
-	raw_input(" Press enter to back ")
+	print("Restart Termux After Every Cloning")
+	raw_input(" Press enter to back")
 	main()
 	
 	
